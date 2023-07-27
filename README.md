@@ -1,4 +1,4 @@
-# .vscode #python #softwareengeneering
+ # .vscode #python #softwareengeneering
 👋 Hi, I’m @Khalilq199
 👀 I’m interested in becoming a software engineer
 🌱 I’m currently learning Python 🐍
